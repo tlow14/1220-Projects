@@ -23,7 +23,6 @@ Vehicle::Vehicle(const Vehicle &v) {
 	//copies the name from v to this object's name
 	strcpy(name, v.name);
 }
-
 //Destructor frees the char* name
 Vehicle::~Vehicle() {
 	delete[] name;
