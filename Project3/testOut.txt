@@ -1,0 +1,24 @@
+None has the following attributes: 
+ Make:           
+ Model:          
+ MPG:            0
+churchill has the following attributes: 
+ Make:           ford
+ Model:          crownvic
+ MPG:            34.3
+ Trim:           ss
+j;sflakdksajfjiaoieifsdahjfaskdvnjsdnajcnasdljhjaskjdfhadslkjdshflakjhacnsadklfjhsadlkjfhasdcnasdkljfhdsalkjfcnaskljdfkljsdfgdsgnfkjshfadlksdjfcnjskdfhlkasjdfhsakdjfnaskjfdhaslkdfjncasdkjfhdskljafhaskdf has the following attributes: 
+ Make:           n
+ Model:          e
+ MPG:            3.4
+ Trim:           3
+ro has the following attributes: 
+ Make:           m
+ Model:          n
+ MPG:            0
+ Cargo Capcity:  3
+a has the following attributes: 
+ Make:           r
+ Model:          m
+ MPG:            4
+ Trim:           ss

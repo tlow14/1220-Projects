@@ -1,0 +1,39 @@
+None has the following attributes: 
+ Make:           
+ Model:          
+ MPG:            0
+CoolCar has the following attributes: 
+ Make:           CheveroletCamero
+ Model:          22
+ MPG:            0
+ Trim:           d
+LameCar has the following attributes: 
+ Make:           Ford
+ Model:          Feista
+ MPG:            0
+ Trim:           c
+FunCar has the following attributes: 
+ Make:           Jeep
+ Model:          Wrangler
+ MPG:            19
+ Trim:           Sahara
+LittleCar has the following attributes: 
+ Make:           MINICooper
+ Model:          32
+ MPG:            32
+ Trim:           Clubman
+weakTruck has the following attributes: 
+ Make:           Ford
+ Model:          Ranger
+ MPG:            210.5
+ Cargo Capcity:  0
+StrongTruck has the following attributes: 
+ Make:           Ford
+ Model:          F-250
+ MPG:            162
+ Cargo Capcity:  2
+ExpensiveTruck has the following attributes: 
+ Make:           Hummer
+ Model:          H
+ MPG:            210
+ Cargo Capcity:  0.5
